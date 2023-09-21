@@ -22,8 +22,7 @@ h2{
 }
 .latest-news-section{
 	height : 200px ;
-/* 	width : 300px ; */
-	flex : 2;
+	flex : 3;
 	margin : 10px;
 	background-color : white ;
 	border-radius : 10px;
@@ -32,8 +31,7 @@ h2{
 }
 .Art{
 	height : 250px ;
-/* 	width : 400px ; */
-	flex : 5;
+	flex : 4;
 	margin : 10px;
 	background-color : white ;
 	border-radius : 10px;
@@ -41,7 +39,7 @@ h2{
 	font-family : Sans-serif;
 }
 .pictorial-news-section{
-	flex : 3;
+	flex : 2;
 	height : 520px;
 	margin : 10px;
 	background-color : white ;
